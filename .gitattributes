@@ -1,0 +1,2 @@
+AFFR_dataset/database.sqlite filter=lfs diff=lfs merge=lfs -text
+AFFR_dataset/Reviews.csv filter=lfs diff=lfs merge=lfs -text
